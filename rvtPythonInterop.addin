@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command rvtPythonInterop</Text>
+    <Description>Some description for rvtPythonInterop</Description>
+    <Assembly>rvtPythonInterop.dll</Assembly>
+    <FullClassName>rvtPythonInterop.Command</FullClassName>
+    <ClientId>ec064f7c-aa8d-466f-9387-9c788ca4cbb7</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
